@@ -3,7 +3,7 @@ import React from 'react'
 function Shipping() {
   return (
     <div>
-      shipping
+      test
     </div>
   )
 }
